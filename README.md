@@ -33,7 +33,7 @@ Feel free to customize the calculator as needed. You can modify the styles in `s
 
 ## Output
 
-
+![image](https://github.com/Janashree2004/Calculator/assets/142415775/6e03f619-fd60-4230-ba19-82499fce5629)
 
 ## License
 
