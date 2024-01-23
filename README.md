@@ -4,7 +4,7 @@ Creating basic calculator using HTML, CSS, and JavaScript.
 
 ## demo
 
-[Demo!]()
+[Demo!](https://janashree2004.github.io/Calculator/)
 
 ## How to Use
 
